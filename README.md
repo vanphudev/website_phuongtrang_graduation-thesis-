@@ -1,13 +1,25 @@
 # Introduction
 
--  Number of projects: 1
 -  Number members: 3
 -  Project name: Phuong Trang Website
 -  Description: This project is a website clone of Phuong Trang website. It is a graduation thesis project of the group.
+-  Development tools:
+   -  Frontend: ReactJS, Redux, TailwindCSS, Bootstrap, HTML5, CSS3, SCSS, JavaScript, ...
+-  NPM packages:
+   -  [axios](https://www.npmjs.com/package/axios)
+   -  [react](https://www.npmjs.com/package/react)
+   -  [react-dom](https://www.npmjs.com/package/react-dom)
+   -  [react-redux](https://www.npmjs.com/package/react-redux)
+   -  [react-router-dom](https://www.npmjs.com/package/react-router-dom)
+   -  [redux](https://www.npmjs.com/package/redux)
+   -  [tailwindcss](https://www.npmjs.com/package/tailwindcss)
+   -  [bootstrap](https://www.npmjs.com/package/bootstrap)
+   -  [web-vitals](https://www.npmjs.com/package/web-vitals)
+   -  [react-scripts](https://www.npmjs.com/package/react-scripts)
 -  Members:
-   -  [Văn Phú]() - Leader
-   -  [Thanh Thúy]() - Member
-   -  [Thanh Thủy]() - Member
+   -  [Văn Phú](https://github.com/vanphudev) - Leader
+   -  [Thanh Thúy](https://github.com/thuyptt610) - Member
+   -  [Thanh Thủy](https://github.com/pthanhthuy95) - Member
 
 ## :ledger: Index
 
@@ -33,19 +45,20 @@
 
 ## :beginner: About
 
-Add a detailed introduction about the project here, everything you want the reader to know.
+-  This project is a website clone of Phuong Trang website. It is a graduation thesis project of the group.
+-  The project is built with ReactJS, Redux, ...
 
 ## :zap: Usage
-
-Write about how to use this project.
 
 ### :electric_plug: Installation
 
 -  Steps on how to install this project, to use it.
--  Be very detailed here, For example, if you have tools which run on different operating systems, write installation steps for all of them.
 
 ```
-$ add installations steps if you have to.
+$ git clone https://github.com/vanphudev/website_phuongtrang_graduation_thesis.git
+$ cd website_phuongtrang_graduation_thesis
+$ npm install
+$ npm start
 ```
 
 ### :package: Commands
@@ -56,27 +69,23 @@ $ add installations steps if you have to.
 
 ### :nut_and_bolt: Development Environment
 
--  How to download the project...
 -  Clone the project to your local machine
    ```
    $ git clone https://github.com/vanphudev/website_phuongtrang_graduation_thesis.git
    ```
+-  How to install dependencies...
+   -  `cd project`
+   -  `npm install`
 -  How to run the project...
    -  `cd project`
    -  `npm start`
 -  How to build the project...
    -  `cd project`
    -  `npm build`
--  How to install dependencies...
-   -  `cd project`
-   -  `npm install`
 
 ### :file_folder: File Structure
 
-Add a file structure here with the basic details about files, below is an example.
-
 ```
-.
 website_phuongtrang_clone/
 ├── node_modules/
 ├── public/
