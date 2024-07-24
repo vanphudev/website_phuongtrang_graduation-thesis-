@@ -1,70 +1,130 @@
-# Getting Started with Create React App
+# Introduction
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+-  Number of projects: 1
+-  Number members: 3
+-  Project name: Phuong Trang Website
+-  Description: This project is a website clone of Phuong Trang website. It is a graduation thesis project of the group.
+-  Members:
+   -  [Văn Phú]() - Leader
+   -  [Thanh Thúy]() - Member
+   -  [Thanh Thủy]() - Member
 
-## Available Scripts
+## :ledger: Index
 
-In the project directory, you can run:
+-  [About](#beginner-about)
+-  [Usage](#zap-usage)
+   -  [Installation](#electric_plug-installation)
+   -  [Commands](#package-commands)
+-  [Development](#wrench-development)
+   -  [Pre-Requisites](#notebook-pre-requisites)
+   -  [Developmen Environment](#nut_and_bolt-development-environment)
+   -  [File Structure](#file_folder-file-structure)
+   -  [Build](#hammer-build)
+   -  [Deployment](#rocket-deployment)
+-  [Community](#cherry_blossom-community)
+   -  [Contribution](#fire-contribution)
+   -  [Branches](#cactus-branches)
+   -  [Guideline](#exclamation-guideline)
+-  [FAQ](#question-faq)
+-  [Resources](#page_facing_up-resources)
+-  [Gallery](#camera-gallery)
+-  [Credit/Acknowledgment](#star2-creditacknowledgment)
+-  [License](#lock-license)
 
-### `npm start`
+## :beginner: About
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Add a detailed introduction about the project here, everything you want the reader to know.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## :zap: Usage
 
-### `npm test`
+Write about how to use this project.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### :electric_plug: Installation
 
-### `npm run build`
+-  Steps on how to install this project, to use it.
+-  Be very detailed here, For example, if you have tools which run on different operating systems, write installation steps for all of them.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+$ add installations steps if you have to.
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### :package: Commands
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :wrench: Development
 
-### `npm run eject`
+### :notebook: Pre-Requisites
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### :nut_and_bolt: Development Environment
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+-  How to download the project...
+-  Clone the project to your local machine
+   ```
+   $ git clone https://github.com/vanphudev/website_phuongtrang_graduation_thesis.git
+   ```
+-  How to run the project...
+   -  `cd project`
+   -  `npm start`
+-  How to build the project...
+   -  `cd project`
+   -  `npm build`
+-  How to install dependencies...
+   -  `cd project`
+   -  `npm install`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### :file_folder: File Structure
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Add a file structure here with the basic details about files, below is an example.
 
-## Learn More
+```
+.
+website_phuongtrang_clone/
+├── node_modules/
+├── public/
+│   ├── icons/
+│   └── index.html
+├── src/
+│   ├── api/
+│   ├── assets/
+│   ├── components/
+│   ├── layouts/
+│   ├── pages/
+│   ├── redux/
+│   ├── resources/
+│   ├── routes/
+│   ├── services/
+│   ├── styles/
+│   ├── utils/
+│   ├── App.js
+│   └── index.js
+├── .env
+├── .gitignore
+├── package-lock.json
+├── package.json
+└── README.md
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### :hammer: Build
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### :rocket: Deployment
 
-### Code Splitting
+## :cherry_blossom: Community
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### :fire: Contribution
 
-### Analyzing the Bundle Size
+### :cactus: Branches
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1. **`stage`** is the development branch.
 
-### Making a Progressive Web App
+2. **`main`** is the production branch.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### :exclamation: Guideline
 
-### Advanced Configuration
+## :question: FAQ
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## :page_facing_up: Resources
 
-### Deployment
+## :camera: Gallery
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## :star2: Credit/Acknowledgment
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## :lock: License
