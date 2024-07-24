@@ -20,6 +20,10 @@
    -  [Văn Phú](https://github.com/vanphudev) - Leader
    -  [Thanh Thúy](https://github.com/thuyptt610) - Member
    -  [Thanh Thủy](https://github.com/pthanhthuy95) - Member
+-  Information Members:
+   | STT | Name Member | MSSV | Email | Github |
+   |-----|-------------|------|-------|--------|
+   | 1 | Nguyễn Văn Phú | 2001216041 | vuonggiaphu.pct@gmail.com | [Văn Phú](https://github.com/vanphudev) |
 
 ## :ledger: Index
 
