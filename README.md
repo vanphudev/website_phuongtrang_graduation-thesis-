@@ -1,4 +1,4 @@
-# Introduction
+# :rocket Introduction
 
 -  Number members: 3
 -  Project name: Phuong Trang Website
@@ -21,9 +21,10 @@
    -  [Thanh Thúy](https://github.com/thuyptt610) - Member
    -  [Thanh Thủy](https://github.com/pthanhthuy95) - Member
 -  Information Members:
-   | STT | Name Member | MSSV | Email | Github |
-   |-----|-------------|------|-------|--------|
-   | 1 | Nguyễn Văn Phú | 2001216041 | vuonggiaphu.pct@gmail.com | [Văn Phú](https://github.com/vanphudev) |
+
+   | STT | Name Member    | MSSV       | Email                     | Github                                  |
+   | --- | -------------- | ---------- | ------------------------- | --------------------------------------- |
+   | 1   | Nguyễn Văn Phú | 2001216041 | vuonggiaphu.pct@gmail.com | [Văn Phú](https://github.com/vanphudev) |
 
 ## :ledger: Index
 
@@ -101,9 +102,9 @@ $ npm start
 
 ### :file_folder: File Structure
 
-```
-- File Structure of the project is as follows:
+-  File Structure of the project is as follows:
 
+```
 website_phuongtrang_clone/
 ├── node_modules/
 ├── public/
