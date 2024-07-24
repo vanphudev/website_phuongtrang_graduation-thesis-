@@ -126,6 +126,12 @@ website_phuongtrang_clone/
 
 2. **`main`** is the production branch.
 
+3. **`vanphu`** is the feature branch.
+
+4. **`thanhthuy`** is the feature branch.
+
+5. **`thanhthuyw`** is the feature branch.
+
 ### :exclamation: Guideline
 
 ## :question: FAQ
