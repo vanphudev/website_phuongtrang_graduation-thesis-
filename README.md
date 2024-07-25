@@ -1,6 +1,6 @@
 # :rocket: Introduction
 
--  Number members: 3
+-  Number members: 4
 -  Project name: Phuong Trang Website
 -  Description: This project is a website clone of Phuong Trang website. It is a graduation thesis project of the group.
 -  Development tools Front-End:
@@ -38,14 +38,13 @@
    -  [Văn Phú](https://github.com/vanphudev) - Leader
    -  [Thanh Thúy](https://github.com/thuyptt610) - Member
    -  [Thanh Thủy](https://github.com/pthanhthuy95) - Member
+   -  [Ngọc Toàn](https://github.com/pthanhthuy95) - Member
 -  Information Members:
    | STT | Name Member | MSSV | Email | Github |
    |-----|-------------|------|-------|--------|
-   | 1 | Nguyễn Văn Phú | 2001216041 | vuonggiaphu.pct@gmail.com |<a href="https://github.com/vanphudev"><img src="https://img.shields.io/badge/vanphudev-282C34?logo=github&logoColor=FFFFFF" alt="git logo" title="github" height="40" /></a>|
-   | 2 | Phạm Thị Thanh Thúy | 2001216196 | thanhthuy0983860756@gmail.com |<a href="https://github.com/thuyptt610"><img src="https://img.shields.io/badge/thuyptt610-282C34?logo=github&logoColor=FFFFFF" alt="git logo" title="github" height="40" /></a>|
-   | 3 | Phạm Thị Thanh Thủy | 2001216195 | pthithanhthuy59@gmail.com |<a href="https://github.com/pthanhthuy95"><img src="https://img.shields.io/badge/pthanhthuy95-282C34?logo=github&logoColor=FFFFFF" alt="git logo" title="github" height="40" /></a>|
-
-
+   | 1 | Nguyễn Văn Phú | 2001216041 | vuonggiaphu.pct@gmail.com |<a href="https://github.com/vanphudev"><img src="https://img.shields.io/badge/vanphudev-282C34?logo=github&logoColor=FFFFFF" alt="git logo" title="github" height="35" /></a>|
+   | 2 | Phạm Thị Thanh Thúy | 2001216196 | thanhthuy0983860756@gmail.com |<a href="https://github.com/thuyptt610"><img src="https://img.shields.io/badge/thuyptt610-282C34?logo=github&logoColor=FFFFFF" alt="git logo" title="github" height="35" /></a>|
+   | 3 | Phạm Thị Thanh Thủy | 2001216195 | pthithanhthuy59@gmail.com |<a href="https://github.com/pthanhthuy95"><img src="https://img.shields.io/badge/pthanhthuy95-282C34?logo=github&logoColor=FFFFFF" alt="git logo" title="github" height="35" /></a>|
 
 ## :ledger: Index
 
