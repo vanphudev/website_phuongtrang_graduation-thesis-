@@ -183,6 +183,8 @@ website_phuongtrang_clone/
 
 5. **`thanhthuyw`** is the feature branch.
 
+6. **`ngoctoan`** is the feature branch.
+
 ### :exclamation: Guideline
 
 > [!NOTE]\
