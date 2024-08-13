@@ -45,6 +45,7 @@
    | 1 | Nguyễn Văn Phú | 2001216041 | vuonggiaphu.pct@gmail.com |<a href="https://github.com/vanphudev"><img src="https://img.shields.io/badge/vanphudev-282C34?logo=github&logoColor=FFFFFF" alt="git logo" title="github" height="35" /></a>|
    | 2 | Phạm Thị Thanh Thúy | 2001216196 | thanhthuy0983860756@gmail.com |<a href="https://github.com/thuyptt610"><img src="https://img.shields.io/badge/thuyptt610-282C34?logo=github&logoColor=FFFFFF" alt="git logo" title="github" height="35" /></a>|
    | 3 | Phạm Thị Thanh Thủy | 2001216195 | pthithanhthuy59@gmail.com |<a href="https://github.com/pthanhthuy95"><img src="https://img.shields.io/badge/pthanhthuy95-282C34?logo=github&logoColor=FFFFFF" alt="git logo" title="github" height="35" /></a>|
+   | 4 | Trần Ngọc Toàn | 2001216225 | toantran02bt@gmail.com |<a href="https://github.com/TranNgocToan02"><img src="https://img.shields.io/badge/TranNgocToan02-282C34?logo=github&logoColor=FFFFFF" alt="git logo" title="github" height="35" /></a>|
 
 ## :ledger: Index
 
